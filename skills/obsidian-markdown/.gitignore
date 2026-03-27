@@ -1,0 +1,7 @@
+data/
+src/app-config.ts
+log/
+output/
+vault/
+node_modules/
+prompt.md

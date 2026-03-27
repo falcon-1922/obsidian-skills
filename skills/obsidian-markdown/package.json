@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-clean",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "clean": "bun run clean.ts"
+  },
+  "dependencies": {
+    "@logtape/logtape": "^0.12"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.11"
+  }
+}
